@@ -1,0 +1,7 @@
+c:\users\kk\documents\visual studio 2010\Projects\BreakOut\BreakOut\bin\Debug\BreakOut.exe
+c:\users\kk\documents\visual studio 2010\Projects\BreakOut\BreakOut\bin\Debug\BreakOut.pdb
+c:\users\kk\documents\visual studio 2010\Projects\BreakOut\BreakOut\obj\x86\Debug\BreakOut.Properties.Resources.resources
+c:\users\kk\documents\visual studio 2010\Projects\BreakOut\BreakOut\obj\x86\Debug\BreakOut.csproj.GenerateResource.Cache
+c:\users\kk\documents\visual studio 2010\Projects\BreakOut\BreakOut\obj\x86\Debug\BreakOut.exe
+c:\users\kk\documents\visual studio 2010\Projects\BreakOut\BreakOut\obj\x86\Debug\BreakOut.pdb
+C:\Users\kk\Documents\Visual Studio 2010\Projects\BreakOut\BreakOut\obj\x86\Debug\BreakOut.csprojResolveAssemblyReference.cache
